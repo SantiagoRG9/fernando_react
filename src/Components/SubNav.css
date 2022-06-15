@@ -1,0 +1,31 @@
+.navbar2{
+
+background-color: #e22828 ;
+
+height: 2rem;
+
+
+
+
+
+}
+
+.navbaritem{
+    display: flex;
+    
+
+
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+
+}
+
+.nav-link{
+
+color: #fff;
+
+}

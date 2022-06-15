@@ -1,0 +1,35 @@
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+
+.img1{
+
+    max-width: 80%;
+  
+}
+
+.collapse{
+    justify-content: center;
+    
+}
+
+.navbaritem1{
+    display: flex;
+    
+
+
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+
+}
+
+.nav-link{
+
+    color: #fff;
+}
